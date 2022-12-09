@@ -1,4 +1,4 @@
-package br.com.caelum.ed.teste;
+package br.com.caelum.ed.testeEstruturas;
 
 import br.com.caelum.ed.model.Aluno;
 
