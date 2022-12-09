@@ -1,4 +1,4 @@
-package br.com.alunoscadastro;
+package br.com.caelum.ed;
 
 public class Main {
     public static void main(String[] args) {

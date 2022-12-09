@@ -2,7 +2,7 @@ package br.com.caelum.ed.model;
 
 import java.util.Objects;
 
-public class Object {
+public class Aluno {
     private String name;
 
     public String getName() {
@@ -26,7 +26,7 @@ public class Object {
     public boolean equals(java.lang.Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Object aluno = (Object) o;
+        Aluno aluno = (Aluno) o;
         return Objects.equals(name, aluno.name);
     }
 
